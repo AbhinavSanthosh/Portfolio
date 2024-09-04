@@ -42,15 +42,19 @@ export const navLinks = [
 
 const services = [
   {
+    title: "Minecraft Server Developer",
+    icon: backend,
+  },
+  {
     title: "System Administrator",
     icon: backend,
   },
   {
-    title: "Web Developer",
+    title: "Minecraft Plugin Developer",
     icon: web,
   },
   {
-    title: "Minecraft Plugin Developer",
+    title: "Web Developer",
     icon: backend,
   },
 ];
@@ -173,7 +177,7 @@ const testimonials = [
 ]; 
 
 const projects = [
-  {
+  /*{
     name: "Car Rent",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
@@ -237,5 +241,5 @@ const projects = [
     source_code_link: "https://github.com/",
   },
 ]; 
-
+*/];
 export { services, technologies, experiences, testimonials, projects };
