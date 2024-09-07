@@ -1,8 +1,11 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
+import webdev from "./webdev.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
-import web from "./web.png";
+import sysadmin from "./sysadmin.png"
+import mc from "./mc.png";
+import pl from "./pl.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -27,6 +30,7 @@ import potato from "./company/potato.png";
 import af from "./company/af.png";
 import hype from "./company/hype.png"
 import accolade from "./company/accolade.png";
+import hp from "./company/hp.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -35,9 +39,12 @@ import tripguide from "./tripguide.png";
 export {
   logo,
   backend,
+  sysadmin,
+  mc,
+  pl,
   creator,
   mobile,
-  web,
+  webdev,
   github,
   menu,
   close,
@@ -57,6 +64,7 @@ export {
   af,
   hype,
   bh,
+  hp,
   asteriax,
   potato,
   accolade,

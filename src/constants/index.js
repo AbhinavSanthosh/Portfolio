@@ -1,6 +1,6 @@
 import {
-  backend,
-  web,
+  mc,
+  webdev,
   javascript,
   java,
   html,
@@ -10,6 +10,8 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  sysadmin,
+  pl,
   git,
   php,
   docker,
@@ -17,6 +19,7 @@ import {
   bh,
   potato,
   af,
+  hp,
   hype,
   asteriax,
   carrent,
@@ -43,19 +46,19 @@ export const navLinks = [
 const services = [
   {
     title: "Minecraft Server Developer",
-    icon: backend,
-  },
-  {
-    title: "System Administrator",
-    icon: backend,
+    icon: mc,
   },
   {
     title: "Minecraft Plugin Developer",
-    icon: web,
+    icon: pl,
+  },
+  {
+    title: "System Administrator",
+    icon: sysadmin,
   },
   {
     title: "Web Developer",
-    icon: backend,
+    icon: webdev,
   },
 ];
 
@@ -163,16 +166,24 @@ const experiences = [
     date: "Feb 2024 - Present",
     points: [],
   },
+  {
+    title: "Manager",
+    company_name: "HeartPvP",
+    icon: hp,
+    iconBg: "#09647c",
+    date: "Jun 2024 - Present",
+    points: [],
+  },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "Abhi is an exceptional developer. Their expertise, creativity, and professionalism shine through in every project. Highly recommended!",
+      "Abhi is an exceptional developer. Highly recommended!",
     name: "Notrix",
-    designation: "Owner",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    designation: "",
+    company: "",
+    image: "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG-Image.png",
   }, 
 ]; 
 
