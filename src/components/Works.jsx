@@ -80,8 +80,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Following projects showcases a range of projects that showcase my skills and experience. Each project is briefly described and includes links to code repositories, reflecting my ability to tackle challenges, work with diverse technologies, and manage projects effectively..
-        </motion.p>
+The projects that follow, display a variety of wondrous works that project my skills and experiences. Each project has a short description along with links to the code repositories reflecting my ability to cope with challenges, work with different machines and manage tasks effectively.        </motion.p>
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>

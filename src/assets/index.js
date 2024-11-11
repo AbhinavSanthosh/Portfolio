@@ -32,9 +32,9 @@ import hype from "./company/hype.png"
 import accolade from "./company/accolade.png";
 import hp from "./company/hp.png"
 
-import carrent from "./carrent.png";
+import utilitico from "./utilitico.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import er from "./er.png";
 
 export {
   logo,
@@ -68,7 +68,7 @@ export {
   asteriax,
   potato,
   accolade,
-  carrent,
+  utilitico,
   jobit,
-  tripguide,
+  er,
 };
