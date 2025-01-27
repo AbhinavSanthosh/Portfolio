@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Fried Potato",
     icon: potato,
     iconBg: "#fff6c5",
-    date: "March 2019 - December 2019",
+    date: "February 2020 - December 2020",
     points: [],
   },
   {
@@ -130,7 +130,7 @@ const experiences = [
     company_name: "HypeMc",
     icon: hype,
     iconBg: "#0e082e",
-    date: "Jan 2020 - March 2022",
+    date: "January 2021 - March 2022",
     points: ["Formerly known as DarkStar Network."],
   },
   {
